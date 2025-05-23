@@ -1,10 +1,3 @@
-'''
-Marias - zakladni hra proti pocitaci
-Stepan Svaty I. rocnik
-zimni semestr 2022/23
-Programming I
-'''
-
 import random #importujeme pro nahodne michani
 
 # objekt karty, jmeno zkratkovite, barva(s,l,k,z), hodnota (od 7 do esa), trumfarna je hodnota, ve ktere je ulozeno jakou ma karta hodnotu pri voleni trumfu
